@@ -1,20 +1,7 @@
 # AI Resume analyzer and parser 
 Our AI Resume Parser & Analyzer is an intelligent system designed to streamline the recruitment process by automatically extracting, analyzing, and evaluating candidate resumes. Built using advanced Natural Language Processing (NLP) and Machine Learning techniques, this tool converts unstructured resume files into structured data, making it easier for recruiters and hiring platforms to assess candidate profiles efficiently.
 
-📁 Repository Structure
 
-APP.py: Main application script that handles resume parsing and job recommendation logic.
-
-RESUME.html: Frontend HTML file for uploading resumes and displaying results.
-
-Resume job recommendation system.ipynb: Jupyter Notebook demonstrating the job recommendation process.
-
-extractedinfo and hiring process.ipynb: Notebook detailing the extraction of information and the hiring process logic.
-
-UpdatedResumeDataSet.csv.zip: Dataset containing manually labeled resume data for training and testing.
-
-Sample Resumes:
- Example resumes in PDF and TXT formats (e.g., Teacher.pdf, designer.pdf, advocate.txt, etc.).​
 ## 📂 Project Structure
 
 ```text
@@ -45,6 +32,7 @@ Frontend Interface: A simple HTML interface (RESUME.html) allows users to upload
 📄 Sample Output
 
 Upon uploading a resume, the system will display extracted information such as:
+
 Name: John Doe
 Email: john.doe@example.com
 Skills: Python, Data Analysis, Machine Learning
@@ -64,4 +52,4 @@ Connect with me on https://www.linkedin.com/in/riddhi-jathar-b2434a288/
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web_App-lightgrey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
