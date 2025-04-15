@@ -24,14 +24,12 @@ Manual Data Annotation: The dataset used for job prediction was manually labeled
 Frontend Interface: A simple HTML interface (RESUME.html) allows users to upload resumes and view the parsed information and job suggestions.​
 
 🔧 Setup & Installation
-git clone https://github.com/your-username/ai-resume-parser.git
-
-cd ai-resume-parser
-
-pip install -r requirements.txt
-
-python app.py
-
+  ```bash 
+  git clone https://github.com/your-username/ai-resume-parser.git
+  cd ai-resume-parser
+  pip install -r requirements.txt
+  python app.py
+```
 📄 Sample Output
 Upon uploading a resume, the system will display extracted information such as:
 
@@ -42,16 +40,3 @@ Email: john.doe@example.com
 Skills: Python, Data Analysis, Machine Learning
 
 Recommended Job Role: Data Scientist​
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![Flask](https://img.shields.io/badge/Flask-Web%20Framework-lightgrey.svg)](https://flask.palletsprojects.com/)
-[![Issues](https://img.shields.io/github/issues/your-username/ai-resume-parser)](https://github.com/your-username/ai-resume-parser/issues)
-[![Stars](https://img.shields.io/github/stars/your-username/ai-resume-parser?style=social)](https://github.com/your-username/ai-resume-parser/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/ai-resume-parser)](https://github.com/your-username/ai-resume-parser/commits/main)
-
-An intelligent system designed to **streamline the recruitment process** by automatically extracting, analyzing, and evaluating candidate resumes.
-
-Built with **Natural Language Processing (NLP)** and **Machine Learning (ML)**, this tool converts unstructured resume files into structured data to help recruiters assess candidates more efficiently.
-
