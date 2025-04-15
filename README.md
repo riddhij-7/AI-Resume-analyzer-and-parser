@@ -25,8 +25,11 @@ Frontend Interface: A simple HTML interface (RESUME.html) allows users to upload
 
 🔧 Setup & Installation
 git clone https://github.com/your-username/ai-resume-parser.git
+
 cd ai-resume-parser
+
 pip install -r requirements.txt
+
 python app.py
 
 📄 Sample Output
